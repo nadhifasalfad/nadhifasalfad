@@ -1,6 +1,6 @@
 <!-- Level 1: simple bio and stats -->
 
-### Hi I'm Nadhifa!
+# Hi I'm Nadhifa!
 
 👩‍💻 Studied Information System at the [Banten Jaya University](https://www.unbaja.ac.id/), Serang<br/>
 🦹‍♀️ Cloud Computing Learning Path Cohort at [Bangkit Academy led by Google, GoTo & Traveloka](https://contributors.bangkit.academy/)<br/>
